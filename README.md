@@ -111,6 +111,6 @@ Com sua combinação de simplicidade, poder e uma comunidade extremamente ativa,
 
 ---
 
-                           ♦️♣️♥️♠️ _"O sucesso do Express é o sucesso da comunidade Node.js."_ ♦️♣️♥️♠️
+               ♦️♣️♥️♠️ _"O sucesso do Express é o sucesso da comunidade Node.js."_ ♦️♣️♥️♠️
 
 ---

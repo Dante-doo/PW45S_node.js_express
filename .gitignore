@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Variaveis de ambiente
+.env
+
+/node_modules/

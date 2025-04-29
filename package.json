@@ -1,0 +1,17 @@
+{
+  "name": "pw45s_node.js_express",
+  "version": "1.0.0",
+  "description": "O **Express** é o framework web mais popular para **Node.js**, criado em **2010** por **TJ Holowaychuk**, um desenvolvedor extremamente ativo na comunidade open-source. Inspirado pela simplicidade e flexibilidade do framework **Sinatra** (Ruby), o Express trouxe abstrações importantes para o Node.js, como **roteamento**, **middleware** e **tratamento de erros**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  }
+}
